@@ -10,7 +10,6 @@
  
 [Solidity](https://docs.soliditylang.org/) 
 
-🧠  My main focus is currently in [Usher](https://github.com/nicolo413/usher-client), polishing the style and trying to fix some sneaky bugs on the payment process. <br>
 🌳  There is no better use of time than exercising in nature with some friends (perhaps putting some good food in the mix would make it even better 🙃).
 
 For a longer story and more often updates go to my [Linkedin](https://www.linkedin.com/in/nicolas-lopez-diez/)
